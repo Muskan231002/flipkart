@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+.flex-centre{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding:5px 10px;
+    color:white;
+    background-color:#2874f0; ;
+    border:2px solid white;
+    cursor:pointer;
+
+}.btn:hover{
+    padding:5px 10px;
+    color:red;
+    background-color:#2874f0; ;
+    border:2px solid white;
+    cursor:pointer;
+    font-weight: bold;
+
+}
+.text-centre{
+    text-align:center;
+}
